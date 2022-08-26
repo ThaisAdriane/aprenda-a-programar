@@ -9,3 +9,9 @@ email = "thais.adrianebc@gmail.com"
 profissão = "Analista Financeiro"
 idade = 35
 lugarSonho = "Gotemburgo"
+
+console.log (nome) 
+console.log (email) 
+console.log (profissão) 
+console.log (idade) 
+console.log (lugarSonho)
